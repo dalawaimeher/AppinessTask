@@ -22,3 +22,6 @@ When listing all categories, number of products associated to that category shou
 7. in servers folder
     7.1 mongoserver file - i have mentioned connection of mongo in mongoserver folder
     7.2 - nodeServer file - i have mentioned server connection
+8. To run in local 
+      - install npm modeules(command - npm i)
+      - Run command in cmd : npm start
