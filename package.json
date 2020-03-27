@@ -1,0 +1,20 @@
+{
+  "name": "category_product_task",
+  "version": "1.0.0",
+  "description": "When listing all categories, print the number of products associated to that category.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalawaimeher/AppinessTask.git"
+  },
+  "author": "Dalawai Meher srija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalawaimeher/AppinessTask/issues"
+  },
+  "homepage": "https://github.com/dalawaimeher/AppinessTask#readme"
+}
